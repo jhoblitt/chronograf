@@ -79,7 +79,7 @@
     "jest": "^23.6.0",
     "jest-runner-eslint": "^0.6.0",
     "jest-runner-tslint": "^1.0.4",
-    "jsdom": "^9.0.0",
+    "jsdom": "^16.5.0",
     "node-sass": "^4.9.0",
     "parcel": "^1.10.1",
     "prettier": "1.12.1",
